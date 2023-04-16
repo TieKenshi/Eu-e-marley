@@ -16,9 +16,12 @@ body{
 }
 
 .corpo{
-   margin: 2cm;
-    border: 10px solid #ffffff;
-   
+    background-color: #070d12;
+    width: 500px;
+    border: 2px solid #e126d9;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 1cm;
 }
 
 
@@ -31,7 +34,7 @@ body{
 }
 
 .titulo_img{
-   height: 120px;
+   width: 500px;
 }
 
 .radio{
